@@ -8,7 +8,7 @@
 
 ## Setting up SDL2
 
-1. Go to the [release page](https://github.com/GlowCheese/SDL2-VS-Setup/releases) of SDL2-Setup and download 2 files: `SDL2-2.26.2.zip` and `SDL2.Template.zip`.
+1. Go to the [release page](https://github.com/GlowCheese/SDL2-Setup/releases) of SDL2-Setup and download 2 files: `SDL2-2.26.2.zip` and `SDL2.Template.zip`.
 2. Extract the zipped file `SDL2-src.zip` to your `C:\` folder.
 
    **After you extract the file, check the location of the folder should be `C:\SDL2-2.26.2`. Otherwise it won't work**.
