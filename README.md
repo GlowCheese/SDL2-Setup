@@ -23,5 +23,5 @@
 4. Change your project's name or location as you wish and click `Create`.
    ###### _After that, the main window of Visual Studio IDE will appears._
 5. From the top sidebar, click on `Local Windows Debugger` to execute the project.
-   ###### _After a few seconds, a small window with orange background will appear._
+   ###### _After a few seconds, a small Pong Game window with will appear._
    ###### _Congratulation! You have successfully created the first working SDL2 project!_

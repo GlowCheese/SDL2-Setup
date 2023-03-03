@@ -1,0 +1,34 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>SDL2 Template</Name>
+    <Description>Default Template for Game Projects</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>SDL2 Template</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.jpg</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="FirstProject.vcxproj" File="FirstProject.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">FirstProject.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Game.cpp">Game.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="main.cpp">main.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="TextureManager.cpp">TextureManager.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Game.h">Game.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="resource.h">resource.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="TextureManager.h">TextureManager.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="SDL2 Template.rc">SDL2 Template.rc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="rickroll.png">ASSETS\rickroll.png</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="SDL2 Template.aps">SDL2 Template.aps</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="SDL2.dll">SDL2.dll</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="SDL2_image.dll">SDL2_image.dll</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="SDL2_mixer.dll">SDL2_mixer.dll</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="SDL2_ttf.dll">SDL2_ttf.dll</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
