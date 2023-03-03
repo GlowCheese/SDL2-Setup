@@ -8,10 +8,10 @@
 
 ## Setting up SDL2
 
-1. Download 2 files `SDL2-2.26.2.zip` and `SDL2.Template.zip` from the [release page](https://github.com/GlowCheese/SDL2-Setup/releases).
-2. Extract the zipped file `SDL2-src.zip` to your `C:\` folder.
+1. Download 2 files `SDL2.Compiler.zip` and `SDL2.Template.zip` from the [release page](https://github.com/GlowCheese/SDL2-Setup/releases).
+2. Extract the zipped file `SDL2.Compiler.zip` to your `C:\` folder.
 
-   ##### NOTE: After you extract the file, the location of the folder MUST be `C:\SDL2-2.26.2`. Otherwise it will NOT work.
+   ##### NOTE: After you extract the file, the location of the folder MUST be `C:\SDL2-2.26.3`. Otherwise it will NOT work.
    
 3. Copy the `SDL2.Template.zip` file to `%USERPROFILE%\Documents\Visual Studio 2022\Templates\ProjectTemplates` directory.
 
